@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbarklarm_website=self.webpackChunkbarklarm_website||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Blog Post","permalink":"/blog/first-blog-post"}]}')}}]);
